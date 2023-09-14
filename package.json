@@ -1,0 +1,16 @@
+{
+  "name": "geojson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@turf/helpers": "^6.5.0",
+    "mysql2": "^3.6.1"
+  }
+}
