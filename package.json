@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@turf/helpers": "^6.5.0",
     "mysql2": "^3.6.1"
   }
 }
